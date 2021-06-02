@@ -1,8 +1,11 @@
 
 # Review Trials Poject
 
-This is project is going to help us to master github flow and get used with linters for checking errors in our css ans Html files.
-
+This is project is going to help us:
+- To master github flow 
+- Get used with linters for checking errors in our css ans Html files.
+- Get used with semantic HTML and CSS best pratices
+- How to give a code review 
 ## Materials required for validation
 
 - follow this link :
