@@ -16,7 +16,7 @@ body {
   padding-bottom: 30px;
 }
 
-#title {
+.title {
   font-size: 45px;
   margin-top: 50px;
   font-weight: 700;
@@ -28,14 +28,14 @@ cite {
   color: black;
 }
 
-#image {
+.image {
   width: 80%;
   margin-top: 40px;
   margin-bottom: 25px;
   max-width: 900px;
 }
 
-#img-caption {
+.img-caption {
   font-size: 17px;
   margin-bottom: 30px;
   text-align: center;
@@ -47,7 +47,7 @@ span {
   text-align: center;
 }
 
-#img-div {
+.img-div {
   width: 90%;
   height: auto;
   margin: 0 auto;
@@ -61,7 +61,7 @@ span {
   box-shadow: 0 0 30px rgba(125, 128, 126, 0.993);
 }
 
-#tribute-info {
+.tribute-info {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -69,15 +69,15 @@ span {
   flex-direction: column;
 }
 
-#tribute-info ul {
+.tribute-info ul {
   width: 60%;
 }
 
-#tribute-info ul li {
+.tribute-info ul li {
   margin: 30px 0;
 }
 
-#main p {
+.main p {
   font-size: 20px;
   width: 90%;
   text-align: center;
@@ -116,38 +116,38 @@ p i {
 }
 
 @media (max-width: 765px) {
-  #title {
+  .title {
     font-size: 25px;
     margin-top: 50px;
     font-weight: 700;
   }
 
-  #tribute-info ul li {
+  .tribute-info ul li {
     font-size: 16px;
   }
 
-  #img-caption {
+  .img-caption {
     font-size: 16px;
     margin-bottom: 30px;
   }
 
-  #main p {
+  .main p {
     font-size: 16px;
   }
 }
 
 @media (max-width: 480px) {
-  #title {
+  .title {
     font-size: 22px;
     margin-top: 51px;
     font-weight: 700;
   }
 
-  #tribute-info ul li {
+  .tribute-info ul li {
     font-size: 15px;
   }
 
-  #img-caption {
+  .img-caption {
     font-size: 15px;
     margin-bottom: 32px;
   }
