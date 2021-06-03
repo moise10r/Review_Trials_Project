@@ -1,4 +1,4 @@
-# Review Trial Poject
+# Review Trial Project
 
 This is project is going to help us:
 - To master github flow 
